@@ -1,0 +1,97 @@
+.card{
+    background-color: rgb(52, 48, 48);
+    color: #fff;
+    display: flex;
+ 
+    height: 50px;
+    align-items: center;
+}
+nav{
+    display: flex;
+    gap: 80px;
+    margin: auto;
+}
+body{
+    background-color: black;
+}
+.bosh{
+    color: #fff;
+}
+/* .box{
+    display: flex;
+    margin-left: 1200px;
+    gap: 50px;
+   
+} */
+ header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+ }
+.boshlanish{
+    width: 192px;
+    height: 82px;
+    background-color: #F1A900;
+}
+.box{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-left: 700px;
+}
+.bir{
+    background-color: #F1A900;
+    width: 235px;
+    height: 73px;
+    font-size: 40px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ikki{
+    background-color: #000000;
+    color: #fff;
+    width: 235px;
+    height: 73px;
+    font-size: 40px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main{
+    background-color: rgb(103, 101, 98);
+    height: 797px;
+    background-image: url(./image\ 5.png);
+    
+}
+.box1{
+    display: flex;
+    margin-left: 500px;
+    padding-top: 300px;
+    gap: 50px;
+}
+.text{
+    width: 922px;
+    height: 140px;
+    background-color: #F1A900;
+    font-weight: 700;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
+    margin-top: 100px;
+    opacity: 0.6;
+
+}
+footer{
+    display: flex;
+    align-items: center;
+}
+.box3{
+    display: flex;
+    gap: 50px;
+    margin-left: 1200px;
+}
